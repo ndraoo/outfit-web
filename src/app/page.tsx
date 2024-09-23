@@ -19,7 +19,7 @@ export default function Home() {
               <AdBanner
                 dataAdFormat="auto"
                 dataFullWidthResponsive={true}
-                dataAdSlot="4284247248"
+                dataAdSlot="5707953871"
               />
             </div>
 
@@ -53,7 +53,7 @@ export default function Home() {
               <AdBanner
                 dataAdFormat="auto"
                 dataFullWidthResponsive={true}
-                dataAdSlot="4284247248"
+                dataAdSlot="5707953871"
               />
             </div>
             <div className="bg-gray-100 px-4 py-6 rounded">
@@ -80,7 +80,7 @@ export default function Home() {
               <AdBanner
                 dataAdFormat="auto"
                 dataFullWidthResponsive={true}
-                dataAdSlot="4284247248"
+                dataAdSlot="5707953871"
               />
             </div>
           </div>
